@@ -1,0 +1,10 @@
+PROJECT REPORT: Monthly Expenditure Tracker
+
+1.  Introduction This project helps track expenses using Python and CSV.
+
+2.  Objectives
+
+-   Track expenses
+-   Analyze monthly spending
+
+3.  Conclusion A simple and useful financial tracking tool.
